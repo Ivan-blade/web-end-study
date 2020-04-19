@@ -43,6 +43,9 @@
                                 <include>**/*.xml</include>
                             </includes>
                         </resource>
+                        <resource>
+                            <directory>src/main/resources</directory>
+                        </resource>
                     </resources>
                 </build>
             ```
