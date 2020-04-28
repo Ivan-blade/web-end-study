@@ -1,0 +1,9 @@
+### fs
++ dfs
+    <img src="../../data-structure-images/dfs-pro1.png">
+    + 递归实现
+    <img src="../../data-structure-images/dfs-ans1.png">
+    + 非递归实现
+    <img src="../../data-structure-images/dfs-stack.png">
+    + 优化
+    <img src="../../data-structure-images/dfs-stack.png">
